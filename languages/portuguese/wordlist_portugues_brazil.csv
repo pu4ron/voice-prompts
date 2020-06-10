@@ -81,20 +81,20 @@ LANGUAGE_NAME,,,Português
 menu,,,Menu
 credits,,,Créditos
 zone,,,Zona
-rssi,,,Sinal Recebido
+rssi,,,R S S I
 battery,,,Bateria
 contacts,,,Contatos
 last_heard,,,Último escutado
-firmware_info,,,Versão Firmware
+firmware_info,,,Fírmôér
 options,,,Opções
-display_options,,,Opções do display
-sound_options,,,Opções de som
-channel_details,,,Detalhes Canal
+display_options,,,Opções display
+sound_options,,,Opções de áudio
+channel_details,,,Detalhes canal
 language,,,Idioma
 new_contact,,,Novo Contato
 contact_list,,,Lista Contatos
 contact_details,,,Detalhes do contato
-hotspot_mode,,,Modo ponto de acesso
+hotspot_mode,,,Modo Rótspót
 built,,,Compilado
 zones,,,Zonas
 keypad,,,Teclado
@@ -106,10 +106,10 @@ unlocked,,,Desbloqueado
 power_off,,,Desligando...
 error,,,ERRO!
 rx_only,,,Apenas recepção
-out_of_band,,,FORA DE BANDA
+out_of_band,,,Fora da faixa de frequência permitida
 timeout,,,TEMPO ESGOTADO
-tg_entry,,,Entrada TG
-pc_entry,,,Entrada PC
+tg_entry,,,Inserir TG
+pc_entry,,,Inserir Contato Privado
 user_dmr_id,,,DMR ID 
 contact,,,Contato
 accept_call,,,Aceitar Chamada?
@@ -132,7 +132,7 @@ none,,,Nenhum
 contact_saved,,,Contato Gravado
 duplicate,,,Duplicado
 tg,,,TG
-pc,,,PC
+pc,,,CP
 ts,,,TS
 mode,,,Modo
 colour_code,,,Código de cores
@@ -149,7 +149,7 @@ rx_group,,,Grupo Rx
 on,,,Ativado
 timeout_beep,,,Bip timeout
 factory_reset,,,Configurações padrão
-calibration,,,Ajuste
+calibration,,,Ajustes
 band_limits,,,Limite de banda
 beep_volume,,,Volume do bip
 dmr_mic_gain,,,Microfone DMR
